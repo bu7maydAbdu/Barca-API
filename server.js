@@ -76,7 +76,7 @@ app.get('/api/:name', (request, response)=>{
     if(barcaPlayers[playersName]){
         response.json(barcaPlayers[playersName])
     }else{
-
+       response.json(barcaPlayers["unknown"])
     }
 })
 
