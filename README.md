@@ -11,4 +11,4 @@
 
 <h1>Optimisations:</h1>
 
-<p> make a separate database to host the data in it </p>
+<p> make a separate database to host the data in it, and add more players </p>
