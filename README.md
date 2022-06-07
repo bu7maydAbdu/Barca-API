@@ -1,7 +1,7 @@
 # Barca-API
 <P>an api dedicated to the best players to play in FC Barcelona </p>
 
-<img src="https://th.bing.com/th/id/R.9d0e4b86278810623cdc1e66c86f5b70?rik=C5psGuFV2tkHBw&riu=http%3a%2f%2f4.bp.blogspot.com%2f_5kKaQPrhlF4%2fSWbUfylkCFI%2fAAAAAAAAABg%2fDVBsq24t7XQ%2fw1200-h630-p-k-no-nu%2fposter_primerequip.JPG&ehk=Iqh%2bA8fB9jdbpQWO%2bYL8rtW0hWzPr%2b0shATCwNLq5UA%3d&risl=&pid=ImgRaw&r=0" >
+<img src="https://th.bing.com/th/id/R.07e00ba7555d069efdcfdc388845a31b?rik=b7E1S245Snwn%2bg&riu=http%3a%2f%2fwww.whoateallthepies.tv%2fPA-7360533.jpg&ehk=KZt0tTOFBVhK%2fyOTmf%2b1b89yBiYPX9rYQO2xZKDOgxY%3d&risl=&pid=ImgRaw&r=0" >
 
 <h1>How To Use The API</h1>
 <h2>api's url : https://barca-api.herokuapp.com/</h2>
