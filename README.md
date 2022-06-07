@@ -8,3 +8,7 @@
 
 <h3> use path /api to run the api </h3>
 <h3>use path /api/{playername}to get  a specific player</h3>
+
+<h1>Optimisations:</h1>
+
+<p> make a separate database to host the data in it </p>
