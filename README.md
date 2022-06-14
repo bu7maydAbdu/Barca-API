@@ -10,5 +10,8 @@
 <h3>use path /api/{playername}to get  a specific player</h3>
 
 <h1>Optimisations:</h1>
-
-<p> make a separate database to host the data in it, and add more players </p>
+<ul>
+<li> make a separate database to host the data in it, and add more players </li>
+  <li> migrate the data into a database </li>
+  </ul>
+  
