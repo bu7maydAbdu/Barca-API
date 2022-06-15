@@ -1,5 +1,6 @@
 # Barca-API
-<P>an api dedicated to the best players to play in FC Barcelona </p>
+<P>An API dedicated to the best players to play in FC Barcelona </p>
+<p> u can get information about your favourite players from fc barcelona  easily from your device </p>
 
 <img src="https://th.bing.com/th/id/R.07e00ba7555d069efdcfdc388845a31b?rik=b7E1S245Snwn%2bg&riu=http%3a%2f%2fwww.whoateallthepies.tv%2fPA-7360533.jpg&ehk=KZt0tTOFBVhK%2fyOTmf%2b1b89yBiYPX9rYQO2xZKDOgxY%3d&risl=&pid=ImgRaw&r=0" >
 
