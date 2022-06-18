@@ -11,9 +11,23 @@
 <h3>use path /api/{playername}to get  a specific player</h3>
 <h3>Example:</h3>
 ```js
+
+
+
+
 fetch(copy the api url here){
+
+
+
 //any code 
+
+
+
 }
+
+
+
+
 ```
 <h1>Optimisations:</h1>
 <ul>
