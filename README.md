@@ -9,7 +9,12 @@
 <h2> copy the api's url : https://barca-api.herokuapp.com/api</h2>
 
 <h3>use path /api/{playername}to get  a specific player</h3>
-
+<h3>Example:</h3>
+```js
+fetch(copy the api url here){
+//any code 
+}
+```
 <h1>Optimisations:</h1>
 <ul>
 <li> make a separate database to host the data in it, and add more players </li>
