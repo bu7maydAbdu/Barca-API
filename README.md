@@ -10,7 +10,7 @@
 
 <h3>use path /api/{playername}to get  a specific player</h3>
 <h3>Example:</h3>
-```js
+
 
 ```
 
