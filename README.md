@@ -28,7 +28,6 @@ fetch(copy the api url here){
 
 
 
-```
 
 <h1>Optimisations:</h1>
 <ul>
