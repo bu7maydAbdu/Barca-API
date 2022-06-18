@@ -12,7 +12,7 @@
 <h3>Example:</h3>
 ```js
 
-
+```
 
 
 fetch(copy the api url here){
