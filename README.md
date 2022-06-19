@@ -15,11 +15,17 @@
 ```
 
 
-fetch(//copy the api url here){
-
-
-
-//any code 
+fetch(//copy the api url and paste it  here){
+ 
+          .then(res => res.json()) 
+          .then(data => {
+           
+           
+           //any code 
+           
+           
+           
+          })
 
 
 
