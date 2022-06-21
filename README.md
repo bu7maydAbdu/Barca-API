@@ -16,7 +16,6 @@
 
 
 fetch(//copy the api url and paste it  here){
- 
           .then(res => res.json()) 
           .then(data => {
            
